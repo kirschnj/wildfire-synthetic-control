@@ -28,10 +28,6 @@ runs
 *.synctex.gz
 *.bak
 *.sav
-update_svn.sh
-update_polybox.sh
-svn/
 *.egg-info
-paper.pdf
-notes.pdf
 .ipynb_checkpoints
+plots
